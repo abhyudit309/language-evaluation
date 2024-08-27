@@ -18,7 +18,7 @@ Collection of evaluation code for natural language generation.
 Install external dependencies (e.g. Java 1.8.0+, `libxml-parser-perl`):
 ```bash
 # Oracle Java
-sudo add-apt-repository ppa:webupd8team/java
+sudo add-apt-repository ppa:ts.sch.gr/ppa
 sudo apt update
 apt-get install oracle-java8-installer
 
