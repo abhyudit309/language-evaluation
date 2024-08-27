@@ -19,7 +19,7 @@ Install external dependencies (e.g. Java 1.8.0+, `libxml-parser-perl`):
 ```bash
 # Oracle Java
 sudo add-apt-repository ppa:webupd8team/java
-sudo apt upadte
+sudo apt update
 apt-get install oracle-java8-installer
 
 # libxml-parser-perl
