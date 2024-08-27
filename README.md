@@ -28,7 +28,7 @@ sudo apt install libxml-parser-perl
 
 Then run:
 ```bash
-pip install git+https://github.com/bckim92/language-evaluation.git
+pip install git+https://github.com/abhyudit309/language-evaluation.git
 python -c "import language_evaluation; language_evaluation.download('coco')"
 ```
 
